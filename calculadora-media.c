@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//Siga @gustavotrindade77
 // Função para verificar se o número é maior que 10 e reiniciar o código
 void verificarLimite(float nota) {
     if (nota > 10) {
