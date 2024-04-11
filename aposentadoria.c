@@ -1,4 +1,4 @@
-//Siga @gustavotrindade77
+
 #include <stdio.h>
 
 int main()
